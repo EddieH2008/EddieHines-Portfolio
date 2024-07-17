@@ -1,4 +1,28 @@
 html {
   height: 100%;
   width: 100%;
+
+  h1,
+  li,
+  a,
+p {
+  color: orange;
+  }
+
+  
+.navbar {
+  background-color:#FAD891 ;
+}
+
+  body{
+    background-color: #FAD891;
+  }
+
+.About{
+  background-color:#FAD891 ;
+}
+
+  
+.About:hover {
+  background-color: white;
 }
